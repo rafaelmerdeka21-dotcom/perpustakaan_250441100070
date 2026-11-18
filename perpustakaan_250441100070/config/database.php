@@ -104,7 +104,6 @@ return [
                 PDO::ATTR_EMULATE_PREPARES => true,
             ],
         ],
-        ],
 
         'sqlsrv' => [
             'driver' => 'sqlsrv',
